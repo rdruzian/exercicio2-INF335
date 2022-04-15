@@ -9,6 +9,10 @@ import java.util.ArrayList;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AnuncioBeanTest {
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8abb450 (Término do desenvolvimento)
     ProdutoBean prod1 = new ProdutoBean("1", "Prod 1", " Produto 1", 12.99, "Novo");
     ArrayList<String> url = new ArrayList<>();
     url.add("www.google.com.br");
